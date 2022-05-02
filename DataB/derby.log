@@ -1,0 +1,20 @@
+Wed Dec 09 08:03:39 CST 2020 : Servidor de red Apache Derby: Se ha iniciado 10.11.1.1 - (1616546) y está listo para aceptar las conexiones en el puerto 1527
+----------------------------------------------------------------
+Wed Dec 09 08:03:40 CST 2020:
+ Iniciando instancia a816c00e-0176-47d0-8f67-0000553ede69 de Derby, versión The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): 
+en el directorio de base de datos C:\Users\aaron\Desktop\ProyectoFinal\DataB\upslp1 con el cargador de clases jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44
+Cargado desde file:/C:/Users/aaron/OneDrive/Documentos/db-derby-10.11.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=C:\Users\aaron\OneDrive\Documentos\db-derby-10.11.1.1-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\aaron\Desktop\ProyectoFinal\DataB
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 09 08:25:54 CST 2020: cerrando motor de Derby
+----------------------------------------------------------------
+Wed Dec 09 08:25:54 CST 2020:
+Cerrando la instancia a816c00e-0176-47d0-8f67-0000553ede69 en el directorio de base de datos C:\Users\aaron\Desktop\ProyectoFinal\DataB\upslp1 con cargador de clases jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44
+----------------------------------------------------------------
